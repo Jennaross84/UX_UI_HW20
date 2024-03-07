@@ -1,0 +1,84 @@
+
+.nav-link {
+    font-weight: 400;
+    font-size: large;
+    color: black !important;
+  
+    
+}
+
+.jumbotron {
+    margin: 10px;
+    font-weight: 600;
+    font-size: 48px;
+    background-color: #2D656D;
+    color: white;
+    font-family: 'catamaran', sans-serif;
+}
+
+
+.cardIntro-header {
+    margin: 10px;
+    font-size: 34px;
+    font-weight: 600;
+    font-family: 'catamaran', sans-serif;
+}
+
+.roles-header {
+    margin: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'catamaran', sans-serif;
+}
+
+.Tools-header {
+    margin: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'catamaran', sans-serif;
+}
+
+.blockquote {
+    margin: 10px;
+    font-size: 20px;
+    box-sizing: content-box;
+    font-family:'urbanist', sans-serif;   
+}
+
+
+p {
+    font-family:'urbanist', sans-serif;
+    margin: 15px;
+}
+
+
+
+.imageContainer {
+    padding: 50px;
+}
+
+.imageContainer img {
+        width: 100%;
+    }
+
+.theChallenge {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: stretch; 
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'catamaran', sans-serif;
+    font-size: 30px;
+    font-weight: 600px;
+    margin: 15px
+}
+
+h7, h8, h9 {
+    font-family: 'catamaran', sans-serif;
+    font-size: 30px;
+    font-weight: 600px;
+    margin: 30px   
+}
+
